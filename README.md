@@ -11,7 +11,7 @@ demonstrations, and the archived 2025 leaderboard.
 
 - What the benchmark is — corpus, robot, observation and action spaces, scoring
 - How well the corpus fits π0.5, Team Comet's fine-tune, and Diffusion Policy
-- Six places where the challenge documentation disagrees with the evaluator
+- Four places where the challenge documentation disagrees with the evaluator
 - Where Q-score points actually live, and which goal predicates anyone satisfies
 - What predicts a hard task
 - All 100 tasks, with the organisers' demo recordings
