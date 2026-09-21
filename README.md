@@ -41,5 +41,11 @@ Predicate counts are syntactic and are a **floor** on the 66 tasks whose goals
 are quantified — see the Method section. The 2025 comparison covers only the 50
 tasks carried over from that year, the only ones anyone has run.
 
+Most 2025 submissions are **partial**: only 3 of the 23 report all 50 tasks, and
+the median reports 11. An unreported task scores 0 and stays in the denominator,
+which is the rule the challenge states. Every field-wide average here therefore
+measures coverage as well as capability, and any single team's two submissions
+are comparable only over the tasks both of them report.
+
 Not affiliated with the BEHAVIOR Challenge organisers. Corrections welcome as
 issues.
