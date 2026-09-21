@@ -5,7 +5,7 @@ from the files the evaluator opens: its own constants, the robot configuration i
 loads, the BDDL goal definitions it scores against, all 20,000 recorded
 demonstrations, and the archived 2025 leaderboard.
 
-**Read it:** https://bushuyeu.github.io/behavior-1k-composition/
+**Read it:** https://bushuyeu.github.io/behavior-1k-data/
 
 ## What is in it
 
